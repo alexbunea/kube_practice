@@ -35,6 +35,6 @@
     "uilayout": "editor-terminal"
   },
   "backend": {
-    "imageid": "node"
+    "imageid": "kubernetes-master-ubuntu1804-1-18 and kubernetes-node-ubuntu1804-1-18"
   }
 }
